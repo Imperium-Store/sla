@@ -1,0 +1,10 @@
+{
+  "ticketsCategory": "1256065940164968531",
+  "logsRelatorioAdm": false,
+  "rolesApprove": ["1254587829720186982"],
+  "mentionsRolesApprove": ["1214434799742226432", "1254587829720186982"],
+  "logsRelatorioTicket": "1257512380582330519",
+  "logsRelatorioAdv": "1257512449687425045",
+  "logsRelatorioDevolucao": "1257512499062902854",
+  "useCommandRoles": ["1254587829720186982", "1214434799742226432"]
+}
