@@ -22328,5 +22328,59 @@
       "multa_loot": "n/a",
       "resolvidoPor": "702300446693392445"
     }
+  },
+  "1283133496348381244": {
+    "84a7c5bb60814d75954ea3850022c17f": {
+      "usuario": "<@1244315304230912123> | 3147",
+      "punicao": "<@&1191841348073029764>",
+      "ticket": "📩jotape🐻・33464",
+      "resultado": "Aprovado",
+      "denunciante": "n/a",
+      "staff": "702300446693392445",
+      "itens_looteados": "n/a",
+      "devolver_itens_para": "n/a",
+      "multa_loot": "n/a",
+      "resolvidoPor": "702300446693392445"
+    }
+  },
+  "1283129917348773908": {
+    "ce30c45dc97d46c099033525048d3fc7": {
+      "usuario": "n/a",
+      "punicao": "n/a",
+      "ticket": "📩ronaldrei🐈・33462",
+      "resultado": "Negado",
+      "denunciante": "n/a",
+      "staff": "1182436806038401154",
+      "itens_looteados": "n/a",
+      "devolver_itens_para": "n/a",
+      "multa_loot": "n/a",
+      "resolvidoPor": "1182436806038401154"
+    }
+  },
+  "1283134223783297087": {
+    "eb7deab8604e422a94774853042a9ef4": {
+      "usuario": "N/a",
+      "punicao": "N/a",
+      "ticket": "📩pedrin・33465",
+      "resultado": "Negado",
+      "denunciante": "n/a",
+      "staff": "1264286288455008379",
+      "itens_looteados": "N/a",
+      "devolver_itens_para": "n/a",
+      "multa_loot": "N/a",
+      "resolvidoPor": "1264286288455008379"
+    },
+    "7d4b5f134c1a4b96ae712021e477d3b7": {
+      "usuario": "N/a",
+      "punicao": "N/a",
+      "ticket": "📩pedrin・33465",
+      "resultado": "Negado",
+      "denunciante": "n/a",
+      "staff": "1264286288455008379",
+      "itens_looteados": "N/a",
+      "devolver_itens_para": "n/a",
+      "multa_loot": "N/a",
+      "resolvidoPor": "1264286288455008379"
+    }
   }
 }

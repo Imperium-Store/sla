@@ -1,0 +1,20 @@
+{
+    "useCommandRoles": [
+        "1144745972866490397",
+        "1144745972866490396",
+        "1144745972866490395"
+    ],
+    "rolePermissions": {
+        "ID_DO_CARGO_QUE_PODE_DAR_CARGO": [
+            "ID_DO_CARGO_PERMITIDO_1",
+            "ID_DO_CARGO_PERMITIDO_2"
+        ]
+    },
+    "rolePermissionsRemove": {
+        "ID_DO_CARGO_QUE_PODE_DAR_CARGO": [
+            "ID_DO_CARGO_PERMITIDO_1",
+            "ID_DO_CARGO_PERMITIDO_2"
+        ]
+    },
+    "logChannelId": "1283123664266465351"
+}
